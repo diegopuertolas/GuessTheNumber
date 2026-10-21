@@ -10,7 +10,7 @@ Después de cada intento, el programa indicará:
 El número es mayor.
 ```
 
-o:
+o indicará:
 
 ```csharp
 El número es menor.
